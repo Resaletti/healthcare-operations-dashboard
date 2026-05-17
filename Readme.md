@@ -43,7 +43,7 @@ The project demonstrates business intelligence storytelling, KPI development, an
 
 ## 📷 Dashboard Preview
 
-[![Dashboard Preview](images/dashboard-final.png)](https://github.com/Resaletti/healthcare-operations-dashboard/blob/main/images/Hospital%20Operations%20Analytics%20Dashboard.png)
+![Dashboard Preview](images/Hospital Operations Analytics Dashboard)
 
 ---
 
