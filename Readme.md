@@ -43,7 +43,7 @@ The project demonstrates business intelligence storytelling, KPI development, an
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/Hospital Operations Analytics Dashboard)
+![Dashboard Preview](images/Hospital Operations Analytics Dashboard.png)
 
 ---
 
